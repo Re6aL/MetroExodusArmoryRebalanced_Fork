@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Metro Exodus Armory (Rebalanced) RE6AL Fork</name>
+  <author>Meruzmi, RE6AL</author>
+  <supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+  </supportedVersions>
+  <packageId>Metro.Exodus.Armory.Rebal.Rebal</packageId>
+  <description>Introduces (almost) every gun from Metro Exodus (and even some from Last Light Redux!) and several variants!
+  CE Required!
+  
+  Damage and range of the guns are lowered from the original version of the mod.
+  
+  Introduces:
+  Pistols:
+  Revolver (5 Variants)
+  Revolver Rifle (2 Variants)
+  Bastard (4 Variants)
+  Lolife
+ 
+  Shotguns:
+  Ashot (1 Joke Variant, 3 Normal Variants)
+  Shambler (3 Variants)
+  Bigun
+  Abzats
+  Saiga
+  
+  Rifles:
+  Kalash (7 Variants, including Shortened, Redux and RPK variants)
+  Kalash 2012
+  VSV
+  Bulldog (2 Variants)
+  Valve (2 Variants)
+  
+  Special Weapons:
+  Tihar Pneumatic Air Rifle
+  Volt Driver
+  Helsing Crossbow
+  
+  Important note: The guns chamber special "Metro" rounds instead of normal CE bullets. All Metro-made bullets are created at a loading bench
+
+  ЯЕБАL: changed texture sizes.
+  </description>
+</ModMetaData>
